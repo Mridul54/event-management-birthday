@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/RbydmHX/venue.webp",
+      "name": "A amused venue",
+      "price": 19.99,
+      "short_description": "Our venue offers a delightful atmosphere, exceptional service, and a variety of options to make your celebration truly unforgettable.",
+      "button": "More Details"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/Yd05qz7/invitations.jpg",
+      "name": "Invitation card",
+      "price": 24.99,
+      "short_description": "Join us in celebrating [Name]'s birthday! Come for a day filled with joy, laughter, and delicious treats. Your presence would make this special day even brighter!",
+      "button": "More Details"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/mc3xmgY/floral.webp",
+      "name": "Floral",
+      "price": 14.99,
+      "short_description": "A birthday floral arrangement is a delightful burst of nature's beauty, carefully curated to brighten someone's special day.",
+      "button": "More Details"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/RznWdY7/catering-service-2.jpg",
+      "name": "Catering with decor",
+      "price": 29.99,
+      "short_description": 
+      "Birthday catering and decor services that turn your special day into a memorable event.",
+      "button": "More Details"
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/Xs9QJ4g/photography.jpg",
+      "name": "Photography",
+      "price": 39.99,
+      "short_description": "Capture the magic of your special day with our professional birthday photography services.",
+      "button": "More Details"
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/2dwyyYV/entertainment.jpg",
+      "name": "Entertainment",
+      "price": 9.99,
+      "short_description": "Birthday entertainment services that bring joy and excitement to your special day from magicians and clowns to face painters and balloon artists.",
+      "button": "More Details"
+    }
+  ]
+  
