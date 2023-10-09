@@ -3,6 +3,7 @@ import birthday1 from '../../assets/birthday1.jpg';
 import birthday2 from '../../assets/birthday2.jpg';
 import birthday3 from '../../assets/birthday3.jpg';
 import birthday4 from '../../assets/birthday4.jpg';
+import About from '../About/About';
 import Footer from '../Footer/Footer';
 import Service from '../Service/Service';
 
@@ -124,6 +125,7 @@ const Home = () => {
                     </div>
                 </div>
             </div>
+            <About></About>
             <Footer></Footer>
             <div>
 
