@@ -3,9 +3,9 @@ import birthday1 from '../../assets/birthday1.jpg';
 import birthday2 from '../../assets/birthday2.jpg';
 import birthday3 from '../../assets/birthday3.jpg';
 import birthday4 from '../../assets/birthday4.jpg';
+import Footer from '../Footer/Footer';
 import Service from '../Service/Service';
-import Details from '../Details/Details';
-import { useContext } from 'react';
+
 
 const Home = () => {
     
@@ -124,6 +124,7 @@ const Home = () => {
                     </div>
                 </div>
             </div>
+            <Footer></Footer>
             <div>
 
             </div>
